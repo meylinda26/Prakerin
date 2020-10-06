@@ -1,0 +1,20 @@
+.content-1{
+    padding-top: 200px;
+    background-image: url("../asset1/images/hero_bg_1.jpg");
+    height: 620px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.content-1 .content-left h6{
+    padding-top: 15px;
+    width: 400px;
+}
+.content-1 .content-left button{
+    margin-top: 20px;
+    
+}
+.content-left a{
+    color: white;
+    text-decoration: none;
+}
